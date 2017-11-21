@@ -2,7 +2,7 @@
 This is a Franz recipe for GitLab.
 
 ### Features
-* Opens Events page by default.
+* Opens `Activity` page by default.
 * Shows ToDo items as badge.
 
 ### How to create your own Franz recipes:
