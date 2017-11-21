@@ -1,0 +1,13 @@
+{
+  "id": "gitlab",
+  "name": "GitLab",
+  "version": "0.1.0",
+  "description": "Get notifications from GitLab",
+  "main": "index.js",
+  "author": "Shramee <shramee.srivastav@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://gitlab.com/dashboard/activity/",
+    "hasNotificationSound": true
+  }
+}
