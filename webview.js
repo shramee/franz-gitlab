@@ -4,6 +4,8 @@ module.exports = ( Franz ) => {
 		if ( $todoCount.length ) {
 			const todoCount = parseInt( $todoCount[0].innerHTML );
 			Franz.setBadge( todoCount );
+		} else {
+			Franz.setBadge( 0 );
 		}
 	};
   
